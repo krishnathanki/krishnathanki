@@ -3,7 +3,7 @@
 ### :smiley_cat: I am a student at MS Ramaiah Institute of Technology India
 
 ### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me asthi or seta
+### and, you can call me krishna or alonfu
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -18,7 +18,7 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-krishnathanki44@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:krishnathanki44@gmail.com)](krishnathanki44@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/krishnathankii/)](https://www.instagram.com/krishnathankii/)
+[![Instagram Badge](https://img.shields.io/badge/-krishnathankii-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/krishnathankii/)](https://www.instagram.com/krishnathankii/)
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
