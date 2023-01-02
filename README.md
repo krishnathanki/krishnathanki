@@ -5,9 +5,11 @@
 ### so, curently this is my first try making my readme, hope you like it 😄
 ### and, you can call me krishna or alonfu
 
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
+![profile views](https://komarev.com/ghpvc/?username=your-github-krishnathanki&label=PROFILE+VIEWS)
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=krishnathanki&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnathanki&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnathanki&theme=tokyonight&layout=compact)
