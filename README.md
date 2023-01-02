@@ -18,7 +18,7 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-krishnathanki44@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:krishnathanki44@gmail.com)](krishnathanki44@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/krishnathankii/)](https://www.instagram.com/asthi_21_/)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/krishnathankii/)](https://www.instagram.com/krishnathankii/)
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
@@ -27,7 +27,7 @@
 ------
 Credit: [krishnathanki](https://github.com/krishnathanki)
 
-Last Edited on: 21/08/2021
+<!-- Last Edited on: 21/08/2021 -->
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
