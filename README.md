@@ -29,7 +29,7 @@
 ------
 Credit: [krishnathanki](https://github.com/krishnathanki)
 
-<!-- Last Edited on: 21/08/2021 -->
+
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
